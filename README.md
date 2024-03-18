@@ -1,6 +1,9 @@
 
 <h3 align="center">Mathen Project</h3><hr>
 
+Support:
+<b>https://www.buymeacoffee.com/365ahmettel</b>
+
 Üzerinde Çalıştığım Proje <a href="https://github.com/AEShooter/Mathen">[Mathen Project]</a>. Mathen, küçük çaplı bir matematik projesi olacaktır. Amacı ise, basit işlemleri ve denklemleri kullanıcının girdiği girdiler ile çözüme ulaştırmaktır. Bu sayede yarına yetişmesi gereken matematik ödevini veya kendi projeniz için kullanacağınız bir fonksiyonu rahatlıkla çözebileceksiniz.<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aeshooter&label=Profile%20views&color=0e75b6&style=flat" alt="aeshooter" /> </p>
